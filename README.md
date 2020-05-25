@@ -14,6 +14,8 @@
 
  - MultiView Qml中实现多视图，多图像源(QImage / QPixmap)
 
+ - Translator Qt / Qml 中支持多国语言
+
 ------
 
 ### 许可证
@@ -25,5 +27,3 @@
 ### 开发环境
 
 windows 10，Qt 5.13.0
-
- 
