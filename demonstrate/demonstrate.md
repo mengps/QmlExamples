@@ -8,3 +8,7 @@
 
 <div align=center><img src="Translator_widget.gif" width="600" height="480" /></div>
 <div align=center><img src="Translator_qml.gif" width="600" height="480" /></div>
+
+ - EventPenetrate MouseArea 的 Click / Hover 事件穿透
+
+<div align=center><img src="EventPenetrate.gif" width="600" height="480" /></div>

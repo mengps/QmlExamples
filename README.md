@@ -16,6 +16,8 @@
 
  - Translator Qt / Qml 中支持多国语言
 
+ - EventPenetrate MouseArea 的 Click / Hover 事件穿透
+
 ------
 
 ### 许可证
